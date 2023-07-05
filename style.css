@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(12, 12, 12);
+}
+
+#convert {
+    background-color:rgb(101, 192, 142);
+  }
+  #convert:hover {
+    background-color: rgb(1, 73, 33);
+  }
+  h1 {
+    font-family: sans-serif;
+    color: rgb(229, 191, 21);
+    text-align: center;
+  }
+  input {
+    text-align: center;
+    border-radius: 5px solid rgb(198, 26, 26);
+    padding: 100px;
+    margin-top: 10px;
+    font-size: 3em;
+    color:black;
+    font-family: 'Times New Roman',sans-serif;
+  }
+  ::-webkit-input-placeholder {
+     color: #cd7171;
+  }
+  :-moz-placeholder { 
+     color: yellow;  
+  }
+  ::-moz-placeholder { 
+     color: white;  
+  }
+  :-ms-input-placeholder {  
+     color: rgb(132, 192, 159);  
+  }
+  button {
+    margin-top: auto;
+    padding: 30px;
+    font-size: 1.2em;
+    color: black;
+  }
